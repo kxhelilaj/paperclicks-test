@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bumerads"
+  },
+  "targets": {
+    "bumerads": {
+      "hosting": {
+        "vue-test": [
+          "vue-test-c2cf4"
+        ]
+      }
+    }
+  }
+}
